@@ -85,7 +85,7 @@
                 "description": "very confident about this mapping"
               },
               "relationship": {
-                "type": "subset-of"
+                "type": "equal-to"
               },
               "sources": [
                 {
