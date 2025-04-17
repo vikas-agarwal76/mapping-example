@@ -78,12 +78,12 @@
                 "control-implementations": [
                     {
                         "uuid": "4de88500-ac9d-4cc3-a7ff-c3b25d501db8",
-                        "source": "profiles/Harmonized_v1.1/profile.json",
+                        "source": "catalogs/PCI/catalog.json",
                         "description": "",
                         "implemented-requirements": [
                             {
                                 "uuid": "fd7cbc99-954e-4958-8742-e822dd34d5e3",
-                                "control-id": "ac-1",
+                                "control-id": "PCI-8.3.1",
                                 "description": "",
                                 "props": [
                                     {
@@ -95,7 +95,7 @@
                             },
                             {
                                 "uuid": "fd7cbc99-954e-4958-8742-e822dd34d5e3",
-                                "control-id": "ac-2",
+                                "control-id": "PCI-8.3.2",
                                 "description": "",
                                 "props": [
                                     {
